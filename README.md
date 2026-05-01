@@ -1,25 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ali Hassan Azad</h1>
+<h1 align="center">Ali Hassan Azad</h1>
 
 <p align="center">
-  Software Engineering Student @ Bahria University Karachi Campus <br>
-  Passionate about building real-world systems and continuously improving my technical skills
+  Software Engineering Student • Backend & System-Focused Developer
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ali-hassan8245">
+    <img src="https://komarev.com/ghpvc/?username=ali-hassan8245&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student currently in my 6th semester at Bahria University Karachi Campus. I have a strong interest in building practical software solutions that solve real-world problems rather than just theoretical implementations.
+I am a Software Engineering student at Bahria University Karachi Campus, currently in my 6th semester with a CGPA above 3.  
 
-My approach to learning is simple: understand the core concepts deeply, apply them in projects, and continuously improve through practice. I focus on writing clean, structured, and maintainable code while exploring modern technologies and development practices.
+My focus is on building **real-world, practical systems** that go beyond basic academic implementations. I aim to develop scalable, maintainable, and efficient solutions by combining strong fundamentals with hands-on project experience.
 
-I am particularly interested in full-stack development, system design, and backend engineering, where I can design scalable and efficient systems.
+I am particularly interested in **backend development, system design, and full-stack engineering**, where I can solve complex problems and build structured applications.
 
 ---
 
 ## 🎓 Education
 
-- **BS Software Engineering (BSE)**  
+- **BS Software Engineering**  
   Bahria University Karachi Campus (BUKC)  
   CGPA: 3+ | Semester: 6th  
 
@@ -28,80 +35,72 @@ I am particularly interested in full-stack development, system design, and backe
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- C  
-- C++  
-- Java  
-- C#  
-- Python  
+### 💻 Languages
+`C` `C++` `Java` `C#` `Python`
 
-### 🌐 Frontend Development
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-- Tailwind CSS (Basic)  
-- React (Basic)  
+### 🌐 Frontend
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `Tailwind CSS` `React (Basic)`
 
-### ⚙️ Backend Development
-- .NET  
-- ASP.NET Core  
+### ⚙️ Backend
+`.NET` `ASP.NET Core`
 
 ### 🗄️ Databases
-- SQL Server  
-- MySQL  
-- MongoDB  
-- Firebase  
+`SQL Server` `MySQL` `MongoDB` `Firebase`
 
 ### 🧠 Core Concepts
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- Software Design & Architecture  
-- Software Testing  
+`OOP` `Data Structures` `Algorithms` `Software Design` `Software Testing`
 
-### 🧰 Tools & Technologies
-- Git & GitHub  
-- Visual Studio / VS Code  
-- Linux (Ubuntu)  
-- Docker (Basic)  
-- Vercel  
-- Figma  
+### 🧰 Tools
+`Git` `GitHub` `VS Code` `Visual Studio` `Linux` `Docker` `Vercel` `Figma`
 
 ---
 
-## 📊 Technical Strengths
-
-- Strong understanding of **OOP principles** and their real-world implementation  
-- Experience in building **multi-module and role-based systems**  
-- Ability to design **database-driven applications with optimized queries**  
-- Familiarity with **design patterns** such as Singleton, Observer, and Repository  
-- Experience working with both **desktop applications and web-based systems**  
-
----
-
-## 🚀 What I’m Currently Working On
-
-- Improving full-stack development skills  
-- Strengthening backend logic and API design  
-- Practicing problem solving and DSA  
-- Building more structured and scalable applications  
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 https://linktr.ee/ali_hassan8245  
-
----
-
-## ⚡ Professional Note
-
-I am currently in a growth phase where I focus on learning, building, and refining my skills. My goal is to become a skilled software engineer capable of designing efficient, scalable, and maintainable systems.
-
----
+## 📊 GitHub Analytics
 
 <p align="center">
-  "Consistency, practice, and real-world problem solving — that's the path I follow."
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hassan8245&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassan8245&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hassan8245&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Technical Profile
+
+- Strong foundation in **Object-Oriented Programming (OOP)**  
+- Experience building **role-based and multi-module systems**  
+- Knowledge of **database design, queries, and optimization**  
+- Familiar with **Design Patterns (Singleton, Observer, Repository)**  
+- Experience with both **desktop and web-based applications**  
+
+---
+
+## 🚀 Current Focus
+
+- Advancing **full-stack development skills**  
+- Strengthening **backend architecture and API design**  
+- Practicing **DSA and problem solving**  
+- Building **clean, scalable systems**  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linktr.ee/ali_hassan8245">
+    <img src="https://img.shields.io/badge/All%20Links-000?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+<p align="center">
+  I focus on consistency, structured learning, and building systems that solve real problems.
 </p>
