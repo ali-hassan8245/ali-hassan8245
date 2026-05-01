@@ -96,7 +96,7 @@ I am particularly interested in **backend development, system design, and full-s
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   
-  <a href="https://linktr.ee/ali_hassan8245">
+  <a href="https://ali-hassan8245.github.io/Ali-Hassan-Linktree/">
     <img src="https://img.shields.io/badge/All%20Links-000?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
   
