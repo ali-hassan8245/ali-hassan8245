@@ -30,7 +30,7 @@ I am particularly interested in **backend development, system design, and full-s
   Bahria University Karachi Campus (BUKC)  
   CGPA: 3+ | Semester: 6th  
 
-- **Intermediate (Pre-Engineering)**  
+- **Intermediate (Computer Science)**  
   Fazaia Degree College, Karachi  
 
 ---
@@ -38,7 +38,7 @@ I am particularly interested in **backend development, system design, and full-s
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`C` `C++` `Java` `C#` `Python`
+`C#` `Java` `Python` `C++` `C` 
 
 ### 🌐 Frontend
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `Tailwind CSS` `React (Basic)`
@@ -75,7 +75,7 @@ I am particularly interested in **backend development, system design, and full-s
 - Strong foundation in **Object-Oriented Programming (OOP)**  
 - Experience building **role-based and multi-module systems**  
 - Knowledge of **database design, queries, and optimization**  
-- Familiar with **Design Patterns (Singleton, Observer, Repository)**  
+- Familiar with **Design Patterns (Singleton, Observer, Repository etc...)**  
 - Experience with both **desktop and web-based applications**  
 
 ---
@@ -94,6 +94,9 @@ I am particularly interested in **backend development, system design, and full-s
 <p align="center">
   <a href="https://linktr.ee/ali_hassan8245">
     <img src="https://img.shields.io/badge/All%20Links-000?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+  <a href="https://alihassanazad-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
