@@ -1,6 +1,42 @@
-Hi, I’m ALI HASSAN.
-I’m BSE student at BUKC with a passion for learning new skills every single day to enhance my knowledge.
-I am not very good in programming because I am in learning era but I try learn all of this programming languages very well.
-I am familiar with Java,C,C+ and C# concepts and web development tools like HTML, CSS, JavaScript."
+<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
 
-https://linktr.ee/ali_hassan8245
+<p align="center">
+  Software Engineering Student @ Bahria University Karachi Campus
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a Software Engineering student who enjoys learning and improving every day.  
+Currently in my learning phase, focusing on building a strong foundation in programming and real-world problem solving.
+
+I believe consistency beats talent — so I keep showing up and learning.
+
+---
+
+## 💡 What I Know
+
+- Programming: **C, C++, Java, C#**
+- Web: **HTML, CSS, JavaScript**
+- Concepts: **OOP Fundamentals, Problem Solving**
+
+---
+
+## 🚀 Current Focus
+
+- Strengthening core programming concepts  
+- Learning modern development practices  
+- Building small projects to improve practical skills  
+
+---
+
+## 🌐 Connect With Me
+
+🔗 https://linktr.ee/ali_hassan8245  
+
+---
+
+## ⚡ Note
+
+> Still learning, still improving — but definitely not stopping.
